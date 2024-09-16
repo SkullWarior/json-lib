@@ -1,0 +1,10 @@
+isValidjson
+IsEmptyObject
+check equality of two objects
+format json
+shallowclone
+deepclone
+createObject
+copyobject
+concatObject
+find key in objects
