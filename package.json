@@ -1,15 +1,27 @@
 {
   "name": "json-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "A range of utility functions to work with json or js objects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["json-lib", "json-library", "json library", "json objects", "json", "jon lib"],
+  "author": "Vasu Vasikarla",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkullWarior/json-lib"
+  },
+
+  "bugs": {
+    "url": "https://github.com/SkullWarior/json-lib/issues"
+  },
+  "files": [
+    "!**/*.ts",
+    "dist/*"
+  ]
 }
